@@ -1,0 +1,62 @@
+[
+  {
+    "Title": "Where the Wild Things Are",
+    "Author": "Maurice Sendak",
+    "Publisher": "RANDOM HOUSE UK",
+    "ISBN": "9780099408390"
+  },
+  {
+    "Title": "The Very Hungry Caterpillar",
+    "Author": "Eric Carle",
+    "Publisher": "World of Eric Carle",
+    "ISBN": "0399226907"
+  },
+  {
+    "Title": "The Giving Tree",
+    "Author": "Shel Silverstein",
+    "Publisher": "HarperCollins",
+    "ISBN": "0060256656"
+  },
+  {
+    "Title": "Green Eggs and Ham",
+    "Author": "Dr. Seuss",
+    "Publisher": "Beginner Books/Random House",
+    "ISBN": "0545002850"
+  },
+  {
+    "Title": "Goodnight Moon",
+    "Author": "Margaret Wise Brown",
+    "Publisher": "HarperCollins",
+    "ISBN": "0060775858"
+  },
+  {
+    "Title": "Charlotte's Web",
+    "Author": "E.B. White",
+    "Publisher": "HarperCollins",
+    "ISBN": "0064410935"
+  },
+  {
+    "Title": "The Cat in the Hat",
+    "Author": "Dr. Seuss",
+    "Publisher": "Random House Books for Young Readers",
+    "ISBN": "039480001X"
+  },
+  {
+    "Title": "Where the Sidewalk Ends",
+    "Author": "Shel Silverstein",
+    "Publisher": "Harpercollins Childrens Books",
+    "ISBN": "0060513039"
+  },
+  {
+    "Title": "If You Give a Mouse a Cookie",
+    "Author": "Laura Joffe Numeroff",
+    "Publisher": "HarperCollins",
+    "ISBN": "9780060245863"
+  },
+  {
+    "Title": "Love You Forever",
+    "Author": "Robert Munsch",
+    "Publisher": "Firefly Books",
+    "ISBN": "0920668372"
+  }
+]
